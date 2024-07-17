@@ -80,7 +80,7 @@ Ce fichier README fournit une vue d'ensemble complète du projet, incluant la de
 
 
 # github link: 
-
+https://github.com/Georginio-prod/Clipboard-landing
 
 # vercel link:
 

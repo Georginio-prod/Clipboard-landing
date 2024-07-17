@@ -1,1 +1,1 @@
-import "./sass/style.scss"
+import "./tailwind.config"
